@@ -1,2 +1,2 @@
 # TinDog
-TinDog Is A App And A Website, Where We Can Actually Find Partners For Our Dogs, At Very Low Cost. We Can Also Call It As A Duplicate Of Tinder.
+Tin Dog is an App and a Website! Where we can actually find partners for our Dogs at very low cost. We can also call, it as a duplicate of Tinder for our Dogs created using HTML, Bootstrap 4 and CSS. 
